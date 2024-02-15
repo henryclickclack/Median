@@ -1,3 +1,28 @@
 .watermark {
   display: none !important;
 }
+.css-uw6d3v {
+  color: white !important;
+  transition-property: all !important;
+  transition-duration: 0.3s !important;
+}
+.css-vvujrz {
+  background-color: white !important;
+  transition-property: all !important;
+  transition-duration: 0.3s !important;
+}
+.css-uw6d3v:hover {
+  opacity: 60%;
+}
+.css-1vzso4o {
+  color: black !important;
+  font-weight: 500 !important;
+  transition-property: all !important;
+  transition-duration: 0.3s !important;
+}
+.css-1vzso4o:hover {
+  opacity: 60%;
+}
+.css-vvujrz:hover {
+  opacity: 60%;
+}

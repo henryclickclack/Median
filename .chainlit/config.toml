@@ -35,7 +35,7 @@ multi_modal = false
 
 [UI]
 # Name of the app and chatbot.
-name = "Vonovia Demo"
+name = "Median Demo"
 
 # Show the readme while the thread is empty.
 show_readme_as_default = false
@@ -60,14 +60,14 @@ custom_css = '/public/stylesheet.css'
 #custom_css = "/public/test.css"
 
 [UI.theme.light]
-    background = "#F2F7F8"
-    paper = "#D3E3E8"
+    background = "#f8f8f8"
+    paper = "#ede9e6"
 
     [UI.theme.light.primary]
-        main = "#00607B"
-        dark = "#180039"
-        light = "#009bc7"
-
+        main = "#b46547"
+        dark = "#b46547"
+        light = "#b46547"
+        
 
 
 
