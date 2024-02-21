@@ -35,7 +35,45 @@ def start_chat():
             Das ist die Anschrift: MEDIAN Unternehmensgruppe B.V. & Co. KG Franklinstraße 28-29 10587 Berlin
             Das ist die E-Mail: info@median-kliniken.de
             FAQ Mediangruppe - Fragen zu Reha nach Corona
-
+Das ist die Organisational Chart:
+Group CFO: Philipp Schulte-Noelle (interim)
+Group ControllingN.N.
+Operatives Controlling: Sebastian Falk
+Group Controlling: Hannes Endler
+Leitung Group Projekte: Dr. Bettina Knop
+Group SAP BI: Matthias Schneider
+HR Shared Services: Anika Dicke
+Group Finance Director: Henri RitschelKonzernrechnungswesen: Arno Tecklenborg
+Financial Center: Ralf Nicklaus
+Group Treasury: René Kahl
+Group M&A: Ruta Hildebrand
+Recht und Compliance: Elke Fromm
+CEO MEDIAN: Dr. Marc Baenkler
+Leitung HR: Maik SteudeRecruiting: Namuna Mandakhbileg
+MEDIAN Akademie: Anke Peters
+Strategische Projekte: N.N.
+Projektmanagement Akut-Kliniken: Frank Teufel
+Group COO: Philipp Schulte-Noelle
+Group IT: Dr. Kai OeySAP: Ansgar Niestradt
+ATOSS: Sabine Widera
+KIS: Angela Eisehuer
+IT Service Management: Christian Kagel
+Field Service: Martin Dzienus
+Digitale Gesundheit: Judith Dittmer
+Marketing und Kommunikation: Arndt Hellmann
+GB Services (Group): Jens KnoblichEinkauf: Christian Schröder
+Catering: Luigi Magri
+Dienstleistungen: Lisa Wellmann
+Bau und FM: Andreas Hild
+FM: René Naie
+Medizinische Qualität: Ulrich Kräutter
+Group Forschung und Innovation: Dr. Laura Golenia
+GB Mitte: Andreas Finkel (interim)
+GB Nord-Ost: Sebastian Bergholz
+GB Ost: Dieter Stocker
+GB Nord-West: Lars Vorsthoven
+GB Süd-West: Andreas Wirth
+GB Soziotherapie: Anja Cappeller
 Medizinische Rehabilitation nach einer Covid-19-Erkrankung
 Nach bisherigen Erkenntnissen überstehen die meisten Menschen eine Covid-19-Erkrankung relativ unbeschadet. Die Folgeschäden können jedoch bei einem relativ schweren Verlauf gravierend sein und nachhaltend die körperliche Leistungsfähigkeit negativ beeinträchtigen. Für Patienten, die im Zuge ihrer Covid-19 Erkrankung eine schwere Lungenentzündung erlitten haben und dabei langzeitbeatmet wurden und/oder ein Lungenversagen (ARDS) stattfand, empfiehlt sich im Anschluss eine spezielle pneumologische Rehabilitation. Im Vordergrund des Reha-Aufenthaltes steht dabei die Wiederherstellung der deutlich reduzierten Lungenfunktion. Der Verlauf einer Covid-19-Erkrankung muss jedoch nicht immer mit einer künstlichen Beatmung oder Lungenversagen einhergegangen sein, um eine Rehaklinik nach Corona sinnvoll zu machen. Schwere Covid-19-Verläufe können den Körper stark schwächen und die Belastbarkeit der Lunge und Atemmuskelkraft auch nach überstandener Erkrankung stark einschränken. Für diese Fälle bieten einige unserer MEDIAN Kliniken interdisziplinäre Post-Corona-Rehabilitationen an, um gebliebene Beeinträchtigungen zu verbessern.
 Nicht zu unterschätzen sind darüber hinaus sämtliche Covid-19 assoziierten psychischen Folgestörungen wie Depressionen durch Verlust von Angehörigen, Angst- oder Zwangsstörungen. Eine spezielle psychosomatische Reha-Behandlung nach Covid-19 unterstützt dabei nicht nur Personen der Allgemeinbevölkerung sondern ebenso medizinisches Personal, das aufgrund hoher Belastungen im Gesundheitssektor unter Erschöpfungsdepressionen oder Traumafolgestörungen leidet. Psychische Folgestörungen aufgrund von Corona können sich jedoch genauso in Form von Abhängigkeitsverhalten äußern. Immer mehr Menschen entwickeln durch mangelnde soziale Unterstützung, Arbeitsplatzverluste, Existenzängste oder zuvor genannte psychische Belastungen Suchtverhalten wie Alkohol- oder Medikamentenabhängigkeiten. Dieses Suchtverhalten kann sich gleichermaßen auf den krankhaften PC-Internetgebrauch oder Glücksspiele beziehen. Spezifische Sucht-Post-Corona-Rehabilitationen helfen Patienten dabei, unterschiedliche mit Covid-19 assoziierte Abhängigkeiten zu bewältigen.
